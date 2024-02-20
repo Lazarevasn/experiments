@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "DevContainer Requirements"
+version = "0.1.0"
+description = ""
+authors = ["Maria Yadryshnikova <myadryshnikova@tourmalinecore.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "3.10.9"
+pandas = "1.5.3"
+jupyterlab = "^4.0.0"
+scikit-learn = "^1.2.2"
+matplotlib = "^3.8.1"
+numpy = "^1.26.4"
